@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b4da394.css",
+    "main.js": "/static/js/main.dc7f1cc6.js",
+    "static/media/loto.png": "/static/media/loto.80c7341ad6c8b57ee7e9.png",
+    "static/media/attendance.svg": "/static/media/attendance.6e34b9026bc67d903a6dc94d407b83ed.svg",
+    "static/media/user.svg": "/static/media/user.bfb806eead8ed86f52eb0f9593dacb99.svg",
+    "static/media/frame_chart.svg": "/static/media/frame_chart.6cfb56b9ef5d9db517429e891519b7a1.svg",
+    "static/media/settings.svg": "/static/media/settings.faf2ebc803a6f5407e696b15562531d3.svg",
+    "static/media/support_agent.svg": "/static/media/support_agent.1bbc6f6edaec531d304d2e969bb06aaa.svg",
+    "static/media/monetization_on.svg": "/static/media/monetization_on.a1a2b40d1cf45097985ca1298ccfaaf8.svg",
+    "static/media/rule.svg": "/static/media/rule.6739c3fbbde4253a7e3129dbb6ed191e.svg",
+    "static/media/admin_panel_settings.svg": "/static/media/admin_panel_settings.3e2183a11536751440908046181def4b.svg",
+    "static/media/insights.svg": "/static/media/insights.be91750d2324036ea89e70e30bcf3853.svg",
+    "static/media/aspect_ratio.svg": "/static/media/aspect_ratio.a02f3e07344607c7eefa43a535952655.svg",
+    "static/media/sports_esports.svg": "/static/media/sports_esports.ccb23c2cfa26e43585613263d7c5d164.svg",
+    "static/media/multiline_chart.svg": "/static/media/multiline_chart.e48b760ec4c77554a052612cce9cc37d.svg",
+    "static/media/people.svg": "/static/media/people.58204c3191e147d5eedf03dc691e833f.svg",
+    "static/media/apartment.svg": "/static/media/apartment.cdcf408368fc824fa5d51e98ba03effc.svg",
+    "static/media/file_copy.svg": "/static/media/file_copy.207a59465f3ac19f894dbcf68fa744b0.svg",
+    "static/media/category.svg": "/static/media/category.bf7ae49fd5c621a30d702f43aefd94e3.svg",
+    "static/media/three.svg": "/static/media/three.70484ec34fe6bb2f555c082c530ed229.svg",
+    "static/media/info.svg": "/static/media/info.d38ebd577264624840ffd1213e801222.svg",
+    "static/media/pie_chart_outline.svg": "/static/media/pie_chart_outline.9445271cfa08c9685140827e40975398.svg",
+    "static/media/open.svg": "/static/media/open.81619f633099d9e48031227b4d57bc0a.svg",
+    "index.html": "/index.html",
+    "static/media/bg.svg": "/static/media/bg.be0f7112cfdc40d4da2a65c961bed7a1.svg",
+    "main.0b4da394.css.map": "/static/css/main.0b4da394.css.map",
+    "main.dc7f1cc6.js.map": "/static/js/main.dc7f1cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4da394.css",
+    "static/js/main.dc7f1cc6.js"
+  ]
+}
