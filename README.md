@@ -1,7 +1,8 @@
 
 # My Project - Complete User Register and Login System
 
-This project is a complete user register and login system built using a MERN (MongoDB, Express, React, Node.js) stack. It includes a React frontend for the user interface and a backend REST API to handle user registration and login. The backend API is hosted on Railway, a platform for deploying web applications.
+This project is a complete user register and login system built using a MERN (MongoDB, Express, React, Node.js) stack. It includes a React frontend for the user interface and a backend REST API to handle user registration and login. The backend API is hosted on Railway, a platform for deploying web applications. The frontend is deployed using Vercel.
+
 
 ## Technologies Used
 
@@ -11,7 +12,15 @@ This project is a complete user register and login system built using a MERN (Mo
 - Node.js: A JavaScript runtime for server-side development.
 - react-toastify: A JavaScript Library used to show Custome Errors or Messages
 - Railway.app: A platform for deploying web applications.
+- Vercel: A platform for deploying frontend applications.
 
+## Usage
+
+- Register a new user: Navigate to the registration page and fill in the required information.
+
+- Login: Navigate to the login page and enter your credentials.
+
+- Access protected routes: Once logged in, you can access any protected routes in the application.
 
 
 # Getting Started with Create React App
