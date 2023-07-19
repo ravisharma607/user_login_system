@@ -59,6 +59,8 @@ const Login = ({ setLoginUser }) => {
     }
     return (
         <>
+                    <ToastContainer />
+
             <div className="container">
                 <div className="img">
                     <img src={img} alt="" />
@@ -91,7 +93,6 @@ const Login = ({ setLoginUser }) => {
                     </form>
                 </div>
             </div>
-            <ToastContainer />
         </>
     )
 }

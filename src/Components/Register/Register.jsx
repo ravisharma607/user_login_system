@@ -27,7 +27,6 @@ const Register = () => {
         })
     }
 
-
     const userRegister = (event) => {
         event.preventDefault();
         const { username, password } = user;
@@ -35,7 +34,6 @@ const Register = () => {
             axios.post("https://userapi-production-1198.up.railway.app/register", user)
             .then((res) => {
                     const {success, message} = res.data;
-                    console.log(res.data);
                     if(success){
                         toast.success(message)
                         setTimeout(() => {
@@ -66,6 +64,8 @@ const Register = () => {
     }
     return (
         <>
+                    <ToastContainer />
+
             <div className="container">
                 <div className="img">
                     <img src={img} alt="" />
@@ -98,7 +98,6 @@ const Register = () => {
                     </form>
                 </div>
             </div>
-            <ToastContainer />
         </>
     )
 }
